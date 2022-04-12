@@ -1,4 +1,5 @@
-[![Build Status](https://dev.azure.com/codse211p011/GAD_DSE21_1P_N/_apis/build/status/Nad216.ContosoAir?branchName=master)](https://dev.azure.com/codse211p011/GAD_DSE21_1P_N/_build/latest?definitionId=2&branchName=master)
+[![Build Status](https://dev.azure.com/codse211p011/UI_Testing_2/_apis/build/status/Nad216.ContosoAir?branchName=master)](https://dev.azure.com/codse211p011/UI_Testing_2/_build/latest?definitionId=3&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
